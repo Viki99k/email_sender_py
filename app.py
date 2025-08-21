@@ -1,7 +1,7 @@
 from email.message import EmailMessage
 import ssl
 import smtplib
-
+import streamlit as st
 
 email_sender = st.secrets["email_sender"]
 email_password = st.secrets["email_password"]  # Use Gmail App Password, not normal password
