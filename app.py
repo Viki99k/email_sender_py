@@ -77,7 +77,7 @@ if st.button("Send Application Email"):
 
         As a recent graduate and fresher, I have developed a strong foundation in JAVA, SQL, Python, Web Development, and Android Development through my academic projects, internships, and self-learning. I am eager to apply this knowledge to contribute effectively to your team. 
 
-        Please find attached my Resume for your review. I would be happy to provide additional information or references upon request.
+        Please find my Resume attached for your review. I would be happy to provide additional information or references upon request.
 
         Thank you for your consideration, and I look forward to the opportunity to discuss my application further.
 
